@@ -11,5 +11,6 @@ namespace C0728432
         static void Main(string[] args)
         {
         }
+
     }
 }
